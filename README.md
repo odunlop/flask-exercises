@@ -3,8 +3,8 @@ This repo was created to help me learn how to use Flask using [this tutorial](ht
 
 ## Progress
 * Chapter 1: Hello, World! :white_check_mark:
-* Chapter 2: Templates :construction:
-* Chapter 3: Web Forms
+* Chapter 2: Templates :white_check_mark:
+* Chapter 3: Web Forms :construction:
 * Chapter 4: Database
 * Chapter 5: User Logins
 * Chapter 6: Profile Page and Avatars
